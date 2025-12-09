@@ -8,7 +8,7 @@ export default function Partner() {
   const rafRef = useRef(null);
 
   const clientsLogo = [
-    "/clients/gib.png",
+    "/clients/GIB.png",
     "/clients/IPDC-logo.png",
     "/clients/janata.png",
     "/clients/mercantile.png",
